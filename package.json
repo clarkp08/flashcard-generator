@@ -1,7 +1,7 @@
 {
   "name": "flashcard-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "flashcard app",
   "main": "app.js",
   "dependencies": {
     "inquirer": "^3.2.3"
