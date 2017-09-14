@@ -1,11 +1,9 @@
 {
-  "name": "flashcard-generator",
+  "name": "flashcards",
   "version": "1.0.0",
   "description": "flashcard app",
-  "main": "app.js",
-  "dependencies": {
-    "inquirer": "^3.2.3"
-  },
+  "main": "BasicCard.js",
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/clarkp08/flashcard-generator.git"
   },
+  "keywords": [
+    "flashcard"
+  ],
   "author": "Phil Clark",
   "license": "ISC",
   "bugs": {
