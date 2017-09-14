@@ -2,7 +2,7 @@
   "name": "flashcards",
   "version": "1.0.0",
   "description": "flashcard app",
-  "main": "BasicCard.js",
+  "main": "app.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
